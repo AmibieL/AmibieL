@@ -1,4 +1,4 @@
- ### Olá! Eu sou o Gustavo Lima 👋
+ ## Olá! Eu sou o Gustavo Lima 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amibiel)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amibi.el/?utm_source=ig_web_button_share_sheet)
@@ -22,7 +22,7 @@
 
 ### Se você está em busca de colaboração em projetos ou quer bater um papo sobre tecnologia, fique à vontade para me contactar!
 
-#
+<br/>
 
 ![AmibieL's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmibieL&theme=tokyonight&hide_border=true)
 
