@@ -15,7 +15,7 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmibieL&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 
 ## Um pouco Sobre mim
 ### Sou apaixonado por tecnologia e atualmente estou estudando desenvolvimento mobile com React Native. Trabalho como programador freelancer focado em desenvolvimento web front-end. Estou sempre aprendendo e me atualizando para oferecer soluções eficientes e inovadoras.
